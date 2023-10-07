@@ -1,0 +1,27 @@
+******************************BUENAS TARDES PROFESOR********************************
+╔══════════════════════════════════════════════════════════════════════════════════╗
+(ESTA VERSION ES LA MISMA QUE LA ANTERIOR SOLO QUE MUESTRA LOS DATOS EN TABLAS CON 
+     PANDAS LA SEPARE EN OTRA CARPETA POR QUE NECESITA INSTALAR PANDAS Y TABULATE)
+╚══════════════════════════════════════════════════════════════════════════════════╝
+                    ╔════════════════════════════════════════╗
+                        En mi maquina si Funciona.XD
+                        S.O= WINDOWS 8+
+                        IDE= PyCharm Community Edition 2023.2
+                    ╚════════════════════════════════════════╝
+Clonar repositorio
+
+REQUERIMIENTOS PREVIOS:
+INSTALAR:
+	PANDAS
+	TABULATE
+O EJECUTAR pip install requirements.txt
+
+Autenticacion
+PARA TODOS LOS CASOS EXISTE UNA PALABRA CLAVE PARA TODO, LA PALABARA UNIVERSAL ES
+                            ADMIN
+EJEMPLO
+Ingrese su nombre,DNI: admin,admin
+Ingrese Nombre,Materia,curso,division: admin,admin,admin,admin
+Ingrese el nombre y materia del alumno a modificar: admin,admin
+
+

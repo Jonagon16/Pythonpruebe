@@ -1,0 +1,31 @@
+******************************BUENAS TARDES PROFESOR********************************
+╔══════════════════════════════════════════════════════════════════════════════════╗
+          (ESTA VERSION ES TOTALMENTE VAINILLA SIN MODULOS DE 3ROS)
+╚══════════════════════════════════════════════════════════════════════════════════╝
+                    ╔════════════════════════════════════════╗
+                        En mi maquina si Funciona.XD
+                        S.O= WINDOWS 8+
+                        IDE= PyCharm Community Edition 2023.2
+                    ╚════════════════════════════════════════╝
+Clonar repositorio
+                COSTO PERO SE PUDO, GRACIAS POR EL AGUANTE.
+************************************************************************************
+CUANDO EL PROGRAMA SOLICITE UN DATO ESCRIBIR SOLO ESE DATO POR EJEMPLO:
+Ingrese una fecha: 12/9/1999
+************************************************************************************
+CUANDO EL PROGRAMA SOLICITE DOS DATOS O MAS CON UN FORMATO POR EJEMPLO:
+Ingrese una Nombre,DNI: Jona,40211345
+************************************************************************************
+                            Actualizaciones
+-VALIDACION DE FECHA
+-VALIDACION DE DNI
+-CORRECIONES VARIAS
+************************************************************************************
+                           Autenticacion
+PARA TODOS LOS CASOS EXISTE UNA PALABRA CLAVE PARA TODO, LA PALABARA UNIVERSAL ES
+                            ADMIN
+EJEMPLO
+Ingrese su nombre,DNI: admin,admin
+Ingrese Nombre,Materia,curso,division: admin,admin,admin,admin
+Ingrese el nombre y materia del alumno a modificar: admin,admin
+
